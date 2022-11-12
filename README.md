@@ -5,10 +5,10 @@
 ### Repositories:
 The following repositories will be used with the respective projects (Subject to change):
 + Project 1: https://github.com/keagan420/CMPG-323-Overview-34209433
-+ Project 2: https://github.com/keagan420/CMPG-323-Overview-34209433
-+ Project 3: https://github.com/keagan420/CMPG-323-Overview-34209433
-+ Project 4: https://github.com/keagan420/CMPG-323-Overview-34209433
-+ Project 5: https://github.com/keagan420/CMPG-323-Overview-34209433
++ Project 2: https://github.com/keagan420/-CMPG-323-Project-2-34209433
++ Project 3: https://github.com/keagan420/CMPG-323-Project-3---34209433
++ Project 4: https://github.com/keagan420/CMPG-323-Project-4-34209433
++ Project 5: https://github.com/keagan420/CMPG-323-Project-5---34209433
 
 ### Branching Strategy
 I will be using a feature branching strategy in all my projects to effectivly implement version control on my code changes with the following branches:
